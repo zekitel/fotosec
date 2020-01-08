@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "815558206905",
+    "firebase_url": "https://fotosecuploadproject.firebaseio.com",
+    "project_id": "fotosecuploadproject",
+    "storage_bucket": "fotosecuploadproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815558206905:android:376333fa5ad4ac83c68268",
+        "android_client_info": {
+          "package_name": "com.project.fotouploadproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815558206905-e173m60kette1a9v50eggoned7dc0sue.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.fotouploadproject",
+            "certificate_hash": "84a2530f40c41107920f27b68c3ad99663d3caef"
+          }
+        },
+        {
+          "client_id": "815558206905-rqmuev2crkoa74sdlqqvl8isdapcosoe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKtBNXR904OQTU989WhdiwZjxfgCrs030"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815558206905-rqmuev2crkoa74sdlqqvl8isdapcosoe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
